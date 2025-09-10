@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth Keer</h1>
 <h3 align="center">A Data Analytics | Final Year CS Student</h3>
-
+<br>
 <p align="center">
   <img src='https://readme-typing-svg.demolab.com/?lines=Python+%2F+Pandas+SQL+%2F+Bootstrap;MS Office+%2F+NumPy;transforming raw data into;actionable insights and;database management by SQL'  alt='skills'/>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
