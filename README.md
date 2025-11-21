@@ -13,7 +13,7 @@
 - 💻 Passionate about transforming raw data into actionable insights
 - 🧠 Learning advanced Python libraries, Deep Learning, Generative AI, Web App development
 - 📫 Reach me at **siddharthanandkeer@gmail.com**
-- 🔭 Currently working on ** TakoTalk **
+- 🔭 Currently working on **TakoTalk**
 - 🌐 Portfolio site coming soon...
 
 ---
